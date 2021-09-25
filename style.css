@@ -7,7 +7,7 @@
     --light: #fff;
     --dark: #e6e8eb;
 }
-body {
+.main-container {
     overflow-x: hidden;
 }
 header nav {
